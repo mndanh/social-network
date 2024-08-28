@@ -1,1 +1,1 @@
-const { Reaction, Thought, User } = require('../models');
+const { Thought, User } = require('../models');
