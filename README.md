@@ -1,4 +1,4 @@
-# Sical Network
+# Social Network
 
 ## Table of Contents
 
