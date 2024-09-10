@@ -26,7 +26,7 @@ To install my project, the dependencies that need to be installed are express, n
 
 ## Usage
 
-To use my application, you're going to have to open a root terminal with all dependencies installed. In that terminal, run node server.js to get the database up live. You can then go in and test it in postman [social-network.mp4]()
+To use my application, you're going to have to open a root terminal with all dependencies installed. In that terminal, run node server.js to get the database up live. You can then go in and test it in postman [social-network.mp4](https://drive.google.com/file/d/16N5DTv3wkqEb_MlwFrUK70yYxL0N6KE5/view?usp=sharing)
 
 ## License
 
